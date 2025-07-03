@@ -17,7 +17,7 @@
 
 ## 🌟 Présentation
 
-**Quiz Code Route Ivoirien** est une application moderne et interactive spécialement conçue pour aider les futurs conducteurs ivoiriens à maîtriser parfaitement le code de la route. 
+**Quiz Code Route Ivoirien** est une application moderne et interactive spécialement conçue pour aider les futurs conducteurs ivoiriens à maîtriser parfaitement le code de la route.
 
 Avec plus de **95 questions soigneusement contextualisées** et **4 niveaux de difficulté progressifs**, cette application offre une préparation complète, engageante et parfaitement adaptée à la réalité routière de la Côte d'Ivoire.
 
@@ -27,24 +27,56 @@ Avec plus de **95 questions soigneusement contextualisées** et **4 niveaux de d
 <tr>
 <td width="50%">
 
-🎯 **95+ questions** adaptées au contexte ivoirien  
-📊 **4 niveaux de difficulté** : Débutant → Maître  
-🃏 **3 jokers intelligents** : 50/50, Appel ami, Avis public  
-⏱️ **Timer circulaire** avec mode critique visuel  
-💰 **Système de gains** en FCFA (monnaie locale)  
+🎯 **95+ questions** adaptées au contexte ivoirien
+📊 **4 niveaux de difficulté** : Débutant → Maître
+🃏 **3 jokers intelligents** : 50/50, Appel ami, Avis public
+⏱️ **Timer circulaire** avec mode critique visuel
+💰 **Système de gains** en FCFA (monnaie locale)
 
 </td>
 <td width="50%">
 
-🎨 **Interface glassmorphism** ultra-moderne  
-📱 **Design responsive** : Mobile, Tablette, Desktop  
-🌐 **Version web** instantanée + Application desktop  
-🚀 **Performance 60fps** avec animations fluides  
-🔄 **Mises à jour** automatiques du contenu  
+🎨 **Interface glassmorphism** ultra-moderne
+📱 **Design responsive** : Mobile, Tablette, Desktop
+🌐 **Version web** instantanée + Application desktop
+🚀 **Performance 60fps** avec animations fluides
+🔄 **Mises à jour** automatiques du contenu
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🎮 Captures d'Écran de l'Application
+
+### 🏠 Écran d'Accueil - Interface Principale
+<div align="center">
+<img src="./images/QUIZ ACCUEIL.png" alt="Écran d'accueil du Quiz Code Route Ivoirien" width="800"/>
+<br>
+<em><strong>Interface d'accueil élégante</strong> : Présentation du logo, titre principal "Quiz Code Route Ivoirien" avec design glassmorphism moderne. L'utilisateur peut voir immédiatement le thème ivoirien avec les couleurs nationales et l'interface intuitive pour commencer le quiz.</em>
+</div>
+
+### 🎯 Sélection des Niveaux de Difficulté
+<div align="center">
+<img src="./images/QUIZ CHAQUE NIVEAU.png" alt="Sélection des niveaux de difficulté" width="800"/>
+<br>
+<em><strong>Choix du niveau de difficulté</strong> : Interface claire montrant les 4 niveaux disponibles (Débutant, Intermédiaire, Expert, Maître) avec des indicateurs visuels distinctifs. Chaque niveau est représenté par des couleurs différentes et des descriptions pour aider l'utilisateur à choisir selon son expérience.</em>
+</div>
+
+### 🎯 Interface de Questions en Action
+<div align="center">
+<img src="./images/QUIZ INTERFACE QUESTIONS.png" alt="Interface de questions du quiz" width="800"/>
+<br>
+<em><strong>Question contextuelle en cours</strong> : Affichage d'une question adaptée au contexte ivoirien avec le timer circulaire en haut à droite, les 4 options de réponse (A, B, C, D) clairement présentées, et les 3 jokers disponibles (50/50, Appel ami, Avis public) en bas. L'interface montre également le système de gains en FCFA en temps réel.</em>
+</div>
+
+### 🏆 Validation des Réponses Correctes
+<div align="center">
+<img src="./images/QUIZ INTERFACES REPONSES JUSTE.png" alt="Interface de validation des bonnes réponses" width="800"/>
+<br>
+<em><strong>Feedback immédiat sur réponse correcte</strong> : Interface de validation montrant la réponse correcte mise en évidence, l'explication détaillée de la règle du code de la route ivoirien, et la progression des gains. Le design utilise des couleurs positives pour féliciter l'utilisateur et renforcer l'apprentissage.</em>
+</div>
 
 ---
 
@@ -304,7 +336,7 @@ Ce projet est distribué sous licence **MIT**. Consultez le fichier [LICENSE](./
 
 <div align="center">
 
-*Développé avec ❤️ en Côte d'Ivoire*  
+*Développé avec ❤️ en Côte d'Ivoire*
 *Version 1.0.0 - Janvier 2024*
 
 **[⭐ Donnez une étoile](https://github.com/Mohkone01/quiz-code-route-docs)** si ce projet vous aide !
