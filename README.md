@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Logo Quiz Code Route](./images/logo-quiz.png)
-
 **Application interactive pour apprendre le code de la route en Côte d'Ivoire**
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Mohkone01/quiz-code-route-docs)
@@ -50,34 +48,34 @@ Avec plus de **95 questions soigneusement contextualisées** et **4 niveaux de d
 
 ---
 
-## 🎮 Captures d'Écran
+## 🎮 Captures d'Écran de l'Application
 
-### 🏠 Écran d'Accueil
+### 🏠 Écran d'Accueil - Interface Principale
 <div align="center">
-<img src="./images/welcome-screen.png" alt="Écran d'accueil" width="800"/>
+<img src="./images/QUIZ ACCUEIL.png" alt="Écran d'accueil du Quiz Code Route Ivoirien" width="800"/>
 <br>
-<em>Interface d'accueil élégante avec sélection de difficulté intuitive</em>
+<em><strong>Interface d'accueil élégante</strong> : Présentation du logo, titre principal "Quiz Code Route Ivoirien" avec design glassmorphism moderne. L'utilisateur peut voir immédiatement le thème ivoirien avec les couleurs nationales et l'interface intuitive pour commencer le quiz.</em>
 </div>
 
-### 🎯 Jeu en Action
+### 🎯 Sélection des Niveaux de Difficulté
 <div align="center">
-<img src="./images/game-screen.png" alt="Jeu en cours" width="800"/>
+<img src="./images/QUIZ CHAQUE NIVEAU.png" alt="Sélection des niveaux de difficulté" width="800"/>
 <br>
-<em>Question contextuelle avec timer circulaire, jokers disponibles et gains en temps réel</em>
+<em><strong>Choix du niveau de difficulté</strong> : Interface claire montrant les 4 niveaux disponibles (Débutant, Intermédiaire, Expert, Maître) avec des indicateurs visuels distinctifs. Chaque niveau est représenté par des couleurs différentes et des descriptions pour aider l'utilisateur à choisir selon son expérience.</em>
 </div>
 
-### 🏆 Écran de Victoire
+### 🎯 Interface de Questions en Action
 <div align="center">
-<img src="./images/victory-screen.png" alt="Écran de victoire" width="800"/>
+<img src="./images/QUIZ INTERFACE QUESTIONS.png" alt="Interface de questions du quiz" width="800"/>
 <br>
-<em>Célébration de la réussite avec récapitulatif des gains et statistiques</em>
+<em><strong>Question contextuelle en cours</strong> : Affichage d'une question adaptée au contexte ivoirien avec le timer circulaire en haut à droite, les 4 options de réponse (A, B, C, D) clairement présentées, et les 3 jokers disponibles (50/50, Appel ami, Avis public) en bas. L'interface montre également le système de gains en FCFA en temps réel.</em>
 </div>
 
-### 📱 Version Mobile
+### 🏆 Validation des Réponses Correctes
 <div align="center">
-<img src="./images/mobile-view.png" alt="Version mobile" width="400"/>
+<img src="./images/QUIZ INTERFACES REPONSES JUSTE.png" alt="Interface de validation des bonnes réponses" width="800"/>
 <br>
-<em>Interface parfaitement adaptée aux smartphones et tablettes</em>
+<em><strong>Feedback immédiat sur réponse correcte</strong> : Interface de validation montrant la réponse correcte mise en évidence, l'explication détaillée de la règle du code de la route ivoirien, et la progression des gains. Le design utilise des couleurs positives pour féliciter l'utilisateur et renforcer l'apprentissage.</em>
 </div>
 
 ---
@@ -176,10 +174,10 @@ Avec plus de **95 questions soigneusement contextualisées** et **4 niveaux de d
 ```
 
 ### 2️⃣ Interface de Jeu
-- **❓ Question** : Lisez attentivement l'énoncé
-- **⏱️ Timer** : 30 secondes par question avec décompte visuel
-- **🔤 Options** : 4 choix de réponse (A, B, C, D)
-- **🃏 Jokers** : 3 aides stratégiques disponibles
+- **❓ Question** : Lisez attentivement l'énoncé contextuel ivoirien
+- **⏱️ Timer** : 30 secondes par question avec décompte visuel circulaire
+- **🔤 Options** : 4 choix de réponse (A, B, C, D) clairement présentés
+- **🃏 Jokers** : 3 aides stratégiques disponibles une fois par partie
 
 ### 3️⃣ Système de Jokers
 | Joker | Fonction | Utilisation |
@@ -189,7 +187,7 @@ Avec plus de **95 questions soigneusement contextualisées** et **4 niveaux de d
 | **👥 Avis Public** | Statistiques des réponses | Une fois par partie |
 
 ### 4️⃣ Système de Gains
-- **💰 Gains progressifs** : Montants croissants par question
+- **💰 Gains progressifs** : Montants croissants par question en FCFA
 - **⚡ Bonus vitesse** : +20% pour les réponses rapides
 - **🎯 Multiplicateurs** : Selon le niveau de difficulté
 - **🏆 Récompenses** : Déblocage de nouveaux niveaux
@@ -266,7 +264,6 @@ Vous avez des idées pour enrichir l'application ? Nous sommes à l'écoute !
 - **📧 Email** : support@quiz-code-route-ci.com
 - **🐛 Issues GitHub** : [Signaler un problème](https://github.com/Mohkone01/quiz-code-route-app/issues)
 - **💬 Discussions** : [Forum communautaire](https://github.com/Mohkone01/quiz-code-route-docs/discussions)
-- **📱 Discord** : Communauté des utilisateurs
 
 ### 🌟 Remerciements
 - **🏛️ Ministère des Transports** de Côte d'Ivoire
