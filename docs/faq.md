@@ -172,7 +172,7 @@
 
 ### ❓ **Comment obtenir de l'aide ?**
 📞 **Plusieurs options :**
-- **Email** : support@quiz-code-route-ci.com
+- **Email** : mohkone303@gmail.com
 - **GitHub Issues** : Pour les bugs techniques
 - **Discord** : Communauté d'entraide
 
@@ -198,5 +198,5 @@
 
 ---
 
-*FAQ v1.0 - Mise à jour Janvier 2024*
+*FAQ v1.0 - Mise à jour Juillet 2025*
 *Quiz Code Route Ivoirien - Toutes vos réponses* 🇨🇮❓✅
