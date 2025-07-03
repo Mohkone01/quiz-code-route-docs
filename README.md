@@ -9,7 +9,7 @@
 [![Platform](https://img.shields.io/badge/platform-Web%20%7C%20Desktop-lightgrey.svg)](https://quiz-code-route-app-ci.vercel.app/)
 [![Made in Côte d'Ivoire](https://img.shields.io/badge/Made%20in-Côte%20d'Ivoire-orange.svg)](https://github.com/Mohkone01)
 
-[🚀 **Jouer Maintenant**](https://quiz-code-route-ci.vercel.app) • [📚 **Documentation**](./docs/) • [❓ **FAQ**](./docs/faq.md) • [🐛 **Signaler un Bug**](https://github.com/Mohkone01/quiz-code-route-app/issues)
+[🚀 **Jouer Maintenant**](https://quiz-code-route-app-ci.vercel.app/) • [📚 **Documentation**](./docs/) • [❓ **FAQ**](./docs/faq.md) • [🐛 **Signaler un Bug**](https://github.com/Mohkone01/quiz-code-route-app/issues)
 
 </div>
 
