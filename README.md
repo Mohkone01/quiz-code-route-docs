@@ -196,19 +196,11 @@ Avec plus de **95 questions soigneusement contextualisées** et **4 niveaux de d
 
 ---
 
-## 📚 Documentation Complète
+## 📚 Documentation 
 
-### 📖 Guides Utilisateur
-- **[🚀 Guide de Démarrage Rapide](./docs/quick-start.md)** - Commencez en 2 minutes
-- **[📘 Guide Utilisateur Complet](./docs/user-guide.md)** - Toutes les fonctionnalités
+
 - **[❓ FAQ](./docs/faq.md)** - Questions fréquemment posées
-- **[📊 Questions par Catégorie](./docs/questions-categories.md)** - Contenu détaillé
 
-### 🎯 Ressources Pédagogiques
-- **[🗺️ Infrastructure Ivoirienne](./docs/infrastructure.md)** - Routes et équipements
-- **[⚖️ Réglementation Locale](./docs/regulations.md)** - Code de la route CI
-- **[🏙️ Géographie d'Abidjan](./docs/geography.md)** - Spécificités urbaines
-- **[💡 Conseils d'Apprentissage](./docs/learning-tips.md)** - Méthodes efficaces
 
 ---
 
@@ -278,7 +270,7 @@ Vous avez des idées pour enrichir l'application ? Nous sommes à l'écoute !
 
 ## 📄 Licence
 
-Ce projet est distribué sous licence **MIT**. Consultez le fichier [LICENSE](./LICENSE) pour plus de détails.
+Ce projet est distribué sous licence **MIT**.
 
 ### 🔓 Utilisation Libre
 - ✅ **Utilisation commerciale** autorisée
@@ -307,7 +299,7 @@ Ce projet est distribué sous licence **MIT**. Consultez le fichier [LICENSE](./
 <div align="center">
 
 *Développé avec ❤️ en Côte d'Ivoire*
-*Version 1.0.0 - Janvier 2024*
+*Version 1.0.0 - Juillet 2025*
 
 **[⭐ Donnez une étoile](https://github.com/Mohkone01/quiz-code-route-docs)** si ce projet vous aide !
 
