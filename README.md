@@ -6,7 +6,7 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Mohkone01/quiz-code-route-docs)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Web%20%7C%20Desktop-lightgrey.svg)](https://quiz-code-route-ci.vercel.app)
+[![Platform](https://img.shields.io/badge/platform-Web%20%7C%20Desktop-lightgrey.svg)](https://quiz-code-route-app-ci.vercel.app/)
 [![Made in Côte d'Ivoire](https://img.shields.io/badge/Made%20in-Côte%20d'Ivoire-orange.svg)](https://github.com/Mohkone01)
 
 [🚀 **Jouer Maintenant**](https://quiz-code-route-ci.vercel.app) • [📚 **Documentation**](./docs/) • [❓ **FAQ**](./docs/faq.md) • [🐛 **Signaler un Bug**](https://github.com/Mohkone01/quiz-code-route-app/issues)
@@ -146,7 +146,7 @@ Avec plus de **95 questions soigneusement contextualisées** et **4 niveaux de d
 ## 🌐 Accès à l'Application
 
 ### 💻 Version Web (Recommandée)
-- **🔗 URL Directe** : [quiz-code-route-ci.vercel.app](https://quiz-code-route-ci.vercel.app)
+- **🔗 URL Directe** : [https://quiz-code-route-app-ci.vercel.app/](https://quiz-code-route-app-ci.vercel.app/)
 - **⚡ Chargement** : Moins de 2 secondes
 - **🌍 Compatibilité** : Tous navigateurs modernes (Chrome, Firefox, Safari, Edge)
 - **📱 Responsive** : Adaptation automatique Mobile, Tablette, Desktop
@@ -286,7 +286,7 @@ Ce projet est distribué sous licence **MIT**.
 
 ### 🎯 Prêt à Tester Vos Connaissances ?
 
-**[🎮 JOUER MAINTENANT](https://quiz-code-route-ci.vercel.app)**
+**[🎮 JOUER MAINTENANT](https://quiz-code-route-app-ci.vercel.app/)**
 
 *Sélectionnez votre niveau • Répondez aux questions • Apprenez en vous amusant*
 
