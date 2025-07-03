@@ -54,7 +54,7 @@ Avec plus de **95 questions soigneusement contextualisées** et **4 niveaux de d
 <div align="center">
 <img src="./images/QUIZ ACCUEIL.png" alt="Écran d'accueil du Quiz Code Route Ivoirien" width="800"/>
 <br>
-<em><strong>Interface d'accueil élégante</strong> : Présentation du logo, titre principal "Quiz Code Route Ivoirien" avec design glassmorphism moderne. L'utilisateur peut voir immédiatement le thème ivoirien avec les couleurs nationales et l'interface intuitive pour commencer le quiz.</em>
+<em><strong>Interface d'accueil élégante</strong> : Présentation du logo, titre principal "Quiz Code Route" avec design glassmorphism moderne. L'utilisateur peut voir immédiatement le thème ivoirien avec les couleurs nationales et l'interface intuitive pour commencer le quiz.</em>
 </div>
 
 ### 🎯 Sélection des Niveaux de Difficulté
