@@ -255,7 +255,7 @@ Vous avez des idées pour enrichir l'application ? Nous sommes à l'écoute !
 - **🎨 Design** : Partagez vos idées visuelles
 
 ### 📞 Contacts et Support
-- **📧 Email** : support@quiz-code-route-ci.com
+- **📧 Email** : mohkone303@gmail.com
 - **🐛 Issues GitHub** : [Signaler un problème](https://github.com/Mohkone01/quiz-code-route-app/issues)
 - **💬 Discussions** : [Forum communautaire](https://github.com/Mohkone01/quiz-code-route-docs/discussions)
 
